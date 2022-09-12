@@ -34,7 +34,7 @@ Below is the screenshots of the challenge, the desktop view is 1440px and the mo
 ### Links
 
 - Solution URL: (https://github.com/Odo-Peter/frontend-mentor-nft-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [odo-peter.vercel.app](https://frontend-mentor-nft-card-19a16yskf-odo-peter.vercel.app)
 
 ## My process
 
